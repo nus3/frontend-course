@@ -3,6 +3,7 @@
   "editor.codeActionsOnSave": {
     "source.fixAll": true
   },
+  "css.validate": false,
   "[html]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
